@@ -1,8 +1,5 @@
 package com.huawei.genex.springtest.demo.Entity;
 
-import com.sun.javafx.beans.IDProperty;
-import org.springframework.boot.autoconfigure.domain.EntityScan;
-
 import javax.persistence.*;
 
 @Entity
